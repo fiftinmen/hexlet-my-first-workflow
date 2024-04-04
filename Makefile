@@ -1,2 +1,2 @@
 sa1yhello:
-        @echo "Hello, World!"
+	@echo "Hello, World!"
