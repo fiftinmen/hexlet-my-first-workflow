@@ -6,4 +6,4 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
-      - run: make sayhello
+      - run: make say-hello
